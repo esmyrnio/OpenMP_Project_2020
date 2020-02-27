@@ -5,8 +5,8 @@
 2dWaveSolver.c solves the 2d wave equation using parallel programming. The equation is solved for a different number of threads.
 Parallel speedup and efficiency are measured for each case.
 
-t0,t5,t10,t20 files contain the numerical and analytical solution 3d plots for t = 0,5,10,20 respectively.
-(tside files contain the same 3d plots from a different point of view)
+t0,t5,t10,t20 files contain the numerical and analytical solution 3d plots for t = 0,5,10,20 respectively
+(tside files contain the same 3d plots from a different point of view).
 
 speedup and efficiency files contain the Parallel Speedup/Efficiency - Number of threads plots.
 
