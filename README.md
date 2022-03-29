@@ -1,4 +1,4 @@
-# OpenMP_Project_2020
+# wave_2D_solver
 
 2dWaveSolver.c solves the 2D wave equation using parallel programming. The equation is solved for a different number of threads.
 Parallel speedup and efficiency are measured for each case. Time elapsed, parallel speedup, parallel efficiency and the last (t = 20) central value for each thread number case, are printed as output.
